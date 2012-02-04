@@ -30,11 +30,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/majesty/">Demo f&uuml;r Majesty Gold</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/majesty/">Demo f&uuml;r Majesty Gold</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/majestyr2/">Updates f&uuml;r Majesty Gold</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/majestyr2/">Updates f&uuml;r Majesty Gold</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
