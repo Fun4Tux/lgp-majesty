@@ -1,0 +1,85 @@
+==Preview==
+<p>Beherrschen Sie ein gewaltiges Fantasy-K&ouml;nigreich vom Thron Ihres Palastes aus!</p>
+
+==Text==
+<p><strong>Das Spiel</strong></p>
+<p>Beherrschen Sie ein gewaltiges Fantasy-K&ouml;nigreich vom Thron Ihres Palastes aus! Sichern Sie sich die Unterst&uuml;tzung von Zauberern, Elfen, Barbaren und anderen Helden Ihres Landes - und stellen Sie sich den fantastischen Herausforderungen, die Sie erwarten. Plazieren Sie zuerst Ihre Gilden und Tempel, um dann eine Vielzahl von Helden f&uuml;r Ihre Sache zu rekrutieren. Schlechte Entscheidungen f&uuml;hren Ihr K&ouml;nigreich in den Abgrund. Nur ein weiser Herrscher besteht seine Pr&uuml;fungen, f&uuml;llt seine Taschen und herrscht &uuml;ber ein K&ouml;nigreich, das in Lied und M&auml;r auf ewig erinnert wird.</p>
+<p></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/majesty-trailer-en.ogg"></source> <source src="http://videos.fun4tux.ch/majesty-trailer-en.m4v"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong><strong><strong>Allgemeine Informationen zum Spiel</strong></strong><strong>&nbsp;</strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/majesty/">Demo f&uuml;r Majesty Gold</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/majestyr2/">Updates f&uuml;r Majesty Gold</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>CD-Rom&nbsp;und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong><strong>Minimale Systemanforderungen</strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>166 MHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>Grafikkarte mit 8 MB Ram<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>48 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>410 MB</td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>4x CD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
